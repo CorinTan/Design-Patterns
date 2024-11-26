@@ -1,2 +1,2 @@
 # Design-Patterns
-The implements of Design Patterns in modern C++20
+The implements of Design Patterns in modern C++.
